@@ -57,7 +57,7 @@
 
   > **Função que retorna os primeiros personagens**
   ```ts
-    const [getCharacters, { data: characters }] = useLazyQuery<CharacterResponse>(
+  const [getCharacters, { data: characters }] = useLazyQuery<CharacterResponse>(
     READ_CHARACTERS,
     {
       variables: { page: 1 },
@@ -67,7 +67,7 @@
 
   > **Função que retorna os primeiros locais**
   ```ts
-    const [getLocations, { data: locations }] = useLazyQuery<LocationResponse>(
+  const [getLocations, { data: locations }] = useLazyQuery<LocationResponse>(
     READ_LOCATIONS,
     {
       variables: { page: 1 },
