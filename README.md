@@ -75,7 +75,6 @@
   );
   ```
 ## Primeira Execução da aplicação :video_camera:
-![Aplicação](https://s4.gifyu.com/images/med.gif)
 ## Inicialização :octocat:
 
 [0] - **Clonando repositório**
