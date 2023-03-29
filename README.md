@@ -1,4 +1,3 @@
-![Platform_Builders](https://www.the-arcade.ie/wp-content/uploads/2019/01/Rick-and-Morty-On-Channel-4-Header.jpg)
 # Rick and Morty GraphQL API
 ### Front end desenvolvido ao consumir a API GraphQL:
 
